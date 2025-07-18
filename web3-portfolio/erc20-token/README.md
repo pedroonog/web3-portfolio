@@ -1,0 +1,3 @@
+# Erc20 Token
+
+Project coming soon...
